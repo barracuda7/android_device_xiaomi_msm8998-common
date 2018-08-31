@@ -129,6 +129,20 @@ PRODUCT_PACKAGES += \
     libcamshim.vendor \
     libicuuc.vendor
 
+# MicroG
+PRODUCT_PACKAGES += \
+    DroidGuard \
+    FakeStore \
+    FDroid \
+    GmsCore \
+    GsfProxy \
+    MozillaNlpBackend \
+    NominatimNlpBackend
+
+#Exchange
+PRODUCT_PACKAGES += \
+    Exchange2
+
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
     android.hardware.camera.provider@2.4-service
@@ -161,10 +175,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     XiaomiDoze \
     XiaomiParts
-
-#Exchange
-PRODUCT_PACKAGES += \
-    Exchange2
 
 # DRM
 PRODUCT_PACKAGES += \
