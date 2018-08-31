@@ -162,6 +162,10 @@ PRODUCT_PACKAGES += \
     XiaomiDoze \
     XiaomiParts
 
+#Exchange
+PRODUCT_PACKAGES += \
+    Exchange2
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
