@@ -137,8 +137,7 @@ PRODUCT_PACKAGES += \
     GmsCore \
     GsfProxy \
     MozillaNlpBackend \
-    NominatimNlpBackend \
-    Exchange
+    NominatimNlpBackend
 
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
