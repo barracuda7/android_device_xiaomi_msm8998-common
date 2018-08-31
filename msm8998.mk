@@ -129,16 +129,6 @@ PRODUCT_PACKAGES += \
     libcamshim.vendor \
     libicuuc.vendor
 
-# MicroG
-PRODUCT_PACKAGES += \
-    DroidGuard \
-    FakeStore \
-    FDroid \
-    GmsCore \
-    GsfProxy \
-    MozillaNlpBackend \
-    NominatimNlpBackend
-
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
     android.hardware.camera.provider@2.4-service
