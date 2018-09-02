@@ -100,6 +100,7 @@ vendor/lib/lib_lowlight.so
 vendor/lib/lib_lowlight_dxo.so
 vendor/lib/libarcsoft_beauty_shot.so
 vendor/lib/libarcsoft_beautyshot.so
+vendor/lib/libmmcamera_centaur_imx268_ofilm.so
 vendor/lib/libarcsoft_beautyshot_image_algorithm.so
 vendor/lib/libarcsoft_beautyshot_video_algorithm.so
 vendor/lib/libarcsoft_dualcam_optical_zoom.so
