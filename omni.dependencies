@@ -78,6 +78,12 @@
   },
   {
     "remote": "github",
+    "repository": "barracuda7/android_device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/sagit",
+    "revision": "android-8.1-120fps"
+  },
+  {
+    "remote": "github",
     "repository": "barracuda7/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "revision": "android-8.1-120fps"
