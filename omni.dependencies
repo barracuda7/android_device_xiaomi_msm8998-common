@@ -72,15 +72,9 @@
   },
   {
     "remote": "github",
-    "repository": "barracuda7/device_xiaomi_sagit",
-    "target_path": "device/xiaomi/sagit",
-    "revision": "android-8.1"
-  },
-  {
-    "remote": "github",
     "repository": "barracuda7/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "revision": "android-8.1"
+    "revision": "android-8.1-120fps"
   },
   {
     "remote": "github",
