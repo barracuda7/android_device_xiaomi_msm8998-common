@@ -93,5 +93,17 @@
     "repository": "barracuda7/android_packages_apps_Exchange",
     "target_path": "packages/apps/Exchange",
     "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_packages_apps_Email",
+    "target_path": "packages/apps/Email",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_packages_apps_UnifiedEmail",
+    "target_path": "packages/apps/UnifiedEmail",
+    "revision": "android-8.1"
   }
 ]
