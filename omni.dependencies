@@ -72,14 +72,38 @@
   },
   {
     "remote": "github",
+    "repository": "barracuda7/device_xiaomi_sagit",
+    "target_path": "device/xiaomi/sagit",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
     "repository": "barracuda7/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "revision": "android-8.1-120fps"
+    "revision": "android-8.1"
   },
   {
     "remote": "github",
     "repository": "barracuda7/android_packages_apps_Exchange",
     "target_path": "packages/apps/Exchange",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_packages_apps_Email",
+    "target_path": "packages/apps/Email",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_packages_apps_UnifiedEmail",
+    "target_path": "packages/apps/UnifiedEmail",
     "revision": "android-8.1"
   }
 ]
