@@ -105,5 +105,11 @@
     "repository": "barracuda7/android_packages_apps_UnifiedEmail",
     "target_path": "packages/apps/UnifiedEmail",
     "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "barracuda7/android_packages_apps_SoundRecorder",
+    "target_path": "packages/apps/SoundRecorder",
+    "revision": "android-8.1"
   }
 ]
