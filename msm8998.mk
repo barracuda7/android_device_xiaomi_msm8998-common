@@ -137,7 +137,7 @@ PRODUCT_PACKAGES += \
     GmsCore \
     GsfProxy \
     MozillaNlpBackend \
-    Dialer \
+    SoundRecorder \
     NominatimNlpBackend
 
 #Exchange
